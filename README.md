@@ -4,7 +4,7 @@ Hey, my name is Aubrey McKinney. I'm a former Musical Theatre artist from Philad
 
 Over the past six months I've been enrolled in the EDx Bootcamp through the University of Pennsylvania, throughout the course I have been challenged in many ways, and I've gained experience in the MERN stack, handlebars, MySql, NoSql, MongoDB, Mongoose, sequelize, as well as in HTML, CSS and Javascript. It's been a wonderful experience so far, and I can't wait to be let loose and gain experience in the field!
 
-Currently I’d love to collaborate on anything! I have a passion for the front-end in particular, but am open to gaining experience in any way I can, so if you need a junior dev, or someone to create a backend server for your project, don't hesitate to reach out!
+Currently I’d love to collaborate on anything! I have a passion for the front-end in particular, but am open to gaining experience in any way I can, so if you need a junior dev, or someone to create a backend server for your project, don't hesitate to reach out! My email is Aubreyasdersmckinney@gmail.com, I look forward to meeting you.
 
 
 <!---
